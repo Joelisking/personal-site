@@ -92,34 +92,37 @@ a:hover {
 }
 
 .comp-graphics{
-    width: 23%;
+    width: 25%;
     float: left;
     margin-right: 30px;
 }
 
 .web-dev-gif{
-    width: 23%;
+    width: 25%;
     float: right;
     margin-left: 30px;
 }
 
 .cad-img {
+    width: 25%;
     float: left;
     margin-right: 30px;
 }
 
 .graph-dsgn-img{
+    width: 25%;
     float: right;
     margin-left: 30px;
 }
 
 .videography-img{
+    width: 25%;
     float: left;
     margin-right: 30px;
 }
 
 .drum-gif{
-    width: 23%;
+    width: 30%;
     float: right;
     margin-left: 30px;
 }
